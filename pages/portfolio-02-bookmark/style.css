@@ -1,0 +1,237 @@
+
+.hero img {
+    margin-top:10px;
+    margin-bottom: 80px;
+    width: 1250px;
+    height: 500px;
+    left: 165px;
+    top: 190px;
+}
+
+.aside{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    position: relative;
+    bottom: 40px;
+    
+}
+
+
+.asideprojeto{
+    position: relative;
+    width: 430px;
+    height: 601px;
+    margin-top: 46px;
+    left: 30px;
+    color: #33323D;
+
+}
+.linha-horizontal  {
+    width: 400px;
+    border: 1px solid #dbdada;
+    position:relative;
+    margin-bottom: 50px;
+    
+    }
+
+.linha-horizontal {
+    position: relative;
+    width: 400px;
+    border: 1px solid #dbdada;
+}
+
+.aside h1{
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-family: Ibarra Real Nova;
+    margin-top:40px;
+}
+.aside p{
+    font-size: 15px;
+    margin-right: 61px;
+    font-family: Public Sans;
+    line-height: 30px;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 35px;
+    color: #33323D;
+
+}
+
+.aside span {
+    display: flex;
+    color: #5FB4A2;
+    font-family: Public Sans;
+    padding: 10px 0px 10px 0px;
+    margin: 10px 0px 10px 0px;
+    font-weight: bold;
+
+}
+
+
+
+.asideprojeto a{
+    Width:204px;
+    Height:48px;
+    Top:454px;
+    Left:113px;
+    border:1px solid #33323D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    color: #33323D;
+    margin-bottom: 50px;
+}
+
+
+.main{
+    display: flex;
+    position:absolute;
+    left: 50%;
+    top: 90%;
+    
+}
+
+.main img{
+    
+    width: 600px;
+    height: 500px;
+    margin-top: 40px;
+    left: 25%;
+}
+
+.mainprojeto{
+    width: 610px;
+    height: 601px;
+    margin-top: 46px;
+    left: 30px;
+    color: #33323D;
+
+}
+
+
+.linha-horizontal1 {
+    position:absolute;
+    right: 1px;
+    width: 1245px;
+    border: 1px solid #dbdada;
+    margin-top: 55px;
+}
+
+.main h1{
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-family: Ibarra Real Nova;
+    margin-top:40px;
+}
+.main p{
+    font-size: 15px;
+    margin-right: 61px;
+    font-family: Public Sans;
+    line-height: 30px;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 35px;
+    color: #33323D;
+
+}
+
+.contato{
+    position:relative;
+    top:890px;
+    display: flex;
+    align-items: center;
+    
+}
+
+footer{
+    position:absolute;
+    top:390%;
+}
+
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position:relative;
+    top: 880px;
+}
+
+.manage{
+    position: relative;
+    left: 35px;
+    text-align: right;
+    padding:10px 0px 10px 10px;
+    font-family: Ibarra Real Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 36px;
+}
+
+.manage a{
+    margin-right: 65px;
+}
+
+.manage span{
+    color:#33323D;
+    font-family: Public Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    margin-right: 90px;
+}
+
+.manage img{
+    position:absolute;
+    left: 1px;
+    bottom:50px;
+}
+
+.insure img{
+    position:absolute;
+    right: 1px;
+    bottom:50px;
+}
+
+.insure a{
+    margin-left: 105px;
+}
+
+
+.insure span {
+    color:#33323D;
+    font-family: Public Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    margin-left: 100px;
+
+    
+    
+}
+
+.insure{
+    position: relative;
+    right: 80px;
+    padding:10px;
+    font-family: Ibarra Real Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 36px;
+}
+
+.insure a{
+    text-align: left;
+}
+
+
+.linha-horizontal2 {
+    position:absolute;
+    width: 1250px;
+    border: 1px solid #dbdada;
+    margin-top: 125px;
+}

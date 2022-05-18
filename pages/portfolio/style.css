@@ -1,0 +1,282 @@
+.manage{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    
+
+}
+
+.manage img{
+    position: relative;
+    width: 600px;
+    height: 500px;
+    margin-top: 40px;
+    margin-left: 30px;
+
+}
+
+.projetoComeco{
+    position: relative;
+    width: 430px;
+    height: 601px;
+    left: 110px;
+    margin-top: 46px;
+    color: #33323D;
+
+}
+.linha-horizontal1  {
+    width: 400px;
+    border: 1px solid #dbdada;
+    position:relative;
+    bottom:6px;
+    margin-bottom: 50px;
+    
+    }
+
+.linha-horizontal2  {
+    position: relative;
+    width: 400px;
+    border: 1px solid #dbdada;
+    bottom: 7px;
+}
+
+.manage h1{
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-family: Ibarra Real Nova;
+    margin-top: 90px;
+}
+.manage p{
+    font-size: 15px;
+    margin-right: 61px;
+    font-family: Public Sans;
+    line-height: 35px;
+
+}
+
+.projetoComeco a{
+    Width:204px;
+    Height:48px;
+    Top:454px;
+    border:1px solid #33323D;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    margin-top: 40px;
+    color: #33323D;
+    margin-bottom: 100px;
+}
+
+
+.bookmark{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    position: relative;
+    bottom: 40px;
+    
+}
+
+.bookmark img{
+    position: relative;
+    width: 600px;
+    height: 500px;
+    margin-top: 40px;
+    left: 25%;
+
+
+}
+
+.segundoprojeto{
+    position: relative;
+    width: 430px;
+    height: 601px;
+    margin-top: 46px;
+    left: 30px;
+    color: #33323D;
+
+}
+.linha-horizontal3  {
+    width: 400px;
+    border: 1px solid #dbdada;
+    position:relative;
+    margin-bottom: 50px;
+    
+    }
+
+.linha-horizontal4  {
+    position: relative;
+    width: 400px;
+    border: 1px solid #dbdada;
+    top: 25px;
+}
+
+.bookmark h1{
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-family: Ibarra Real Nova;
+    margin-top: 90px;
+}
+.bookmark p{
+    font-size: 15px;
+    margin-right: 61px;
+    font-family: Public Sans;
+    line-height: 35px;
+
+}
+
+.segundoprojeto a{
+    Width:204px;
+    Height:48px;
+    Top:454px;
+    Left:113px;
+    border:1px solid #33323D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    color: #33323D;
+    margin-bottom: 100px;
+}
+
+
+.insure{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    position: relative;
+    bottom: 40px;
+
+}
+
+.insure img{
+    position: relative;
+    width: 600px;
+    height: 500px;
+    margin-top: 40px;
+    margin-left: 30px;
+
+}
+
+.projetoterceiro{
+    position: relative;
+    width: 430px;
+    height: 601px;
+    left: 110px;
+    margin-top: 46px;
+    color: #33323D;
+
+}
+.linha-horizontal5  {
+    width: 400px;
+    border: 1px solid #dbdada;
+    position:relative;
+    bottom:6px;
+    margin-bottom: 50px;
+    
+    }
+
+.linha-horizontal6  {
+    position: relative;
+    width: 400px;
+    border: 1px solid #dbdada;
+    bottom: 7px;
+}
+
+.insure h1{
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-family: Ibarra Real Nova;
+    margin-top: 90px;
+}
+.insure p{
+    font-size: 15px;
+    margin-right: 61px;
+    font-family: Public Sans;
+    line-height: 35px;
+
+}
+
+.projetoterceiro a{
+    Width:204px;
+    Height:48px;
+    Top:454px;
+    border:1px solid #33323D;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    margin-top: 40px;
+    color: #33323D;
+    margin-bottom: 100px;
+}
+
+
+.fylo{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    position: relative;
+    bottom: 40px;
+}
+
+.fylo img{
+    position: relative;
+    width: 600px;
+    height: 500px;
+    margin-top: 40px;
+    left: 25%;
+
+
+}
+
+.quartoProjeto{
+    position: relative;
+    width: 430px;
+    height: 601px;
+    margin-top: 46px;
+    left: 30px;
+    color: #33323D;
+
+}
+.linha-horizontal7  {
+    width: 400px;
+    border: 1px solid #dbdada;
+    position:relative;
+    margin-bottom: 50px;
+    
+    }
+
+.linha-horizontal8  {
+    position: relative;
+    width: 400px;
+    border: 1px solid #dbdada;
+    bottom: 10px;
+}
+
+.fylo h1{
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-family: Ibarra Real Nova;
+    margin-top: 90px;
+}
+.fylo p{
+    font-size: 15px;
+    margin-right: 61px;
+    font-family: Public Sans;
+    line-height: 35px;
+
+}
+
+.quartoProjeto a{
+    Width:204px;
+    Height:48px;
+    Top:454px;
+    Left:113px;
+    border:1px solid #33323D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    color: #33323D;
+    margin-bottom: 100px;
+}

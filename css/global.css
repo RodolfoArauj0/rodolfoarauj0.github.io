@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    background-color: white;  
+    padding: 0px 40px 0px 40px;
+    min-height: 100vh;
+    min-width: 100vw;
+    font-family: Public Sans;
+    font-style: normal;
+    font-weight: normal;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #5FB4A2;
+    text-decoration: none;
+}
+a:link {
+    color: #33323D;
+    text-decoration: none;
+
+ }
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    flex-wrap: wrap;
+    padding: 10px 10px 10px 20px;
+    }
+    
+    .port{
+        color: #33323D;
+    }
+    
+    .menu{
+        display: flex;
+    }
+    
+    .menu li, a{
+        display: block;
+        padding: 10px;
+    }
+
+
+
+    .contato a{
+        Width:120px;
+        Height:48px;
+        margin-right: 80px;
+        border:1px solid #33323D;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 80px;
+        margin-left: 75px;
+        color: #33323D;
+        margin-bottom: 100px;
+    }
+    
+    .contato a:hover{
+        background-color: #33323D;
+        color: #FFFF;
+    }
+    
+    .contato p{
+        font-size: 40px;
+        position: relative;
+        Width: 360px;
+        Height: 84px;
+        margin-left: 10px;
+        font-family: Ibarra Real Nova;
+        font-style: normal;
+        font-weight: bold;
+        line-height: 45px;
+    
+    
+    }
+    .contato{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        position: relative;
+        bottom: 95px;
+    }
+    
+
+
+footer{
+    background-color: #33323D;
+    color: #FFFFFF;
+}
+.fimDaPagina{
+    min-width: 103%;
+    position:absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 60px 10px 0px;
+    right: 0.15px;
+     
+}
+
+.fimDaPagina a{
+    color: whitesmoke;
+}
+.fimDaPagina li, a{
+    display: block;
+    margin: 8px;
+}
+.rodape{
+    display: flex;
+    margin-left: 30px;
+ }
+
+ .fimDaPagina div{
+     margin-left: 600px;
+ }
+ .fimDaPagina img{
+    left: 30px;
+    margin: 5px;
+ }
+ .logo{
+     position: relative;
+     margin-left: 80px;
+ }
+
+ .contato button:hover{
+     background-color: #5FB4A2;
+     border: 1px solid #5FB4A2;
+ }

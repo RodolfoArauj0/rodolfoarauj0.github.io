@@ -1,0 +1,177 @@
+
+.meio {
+    
+    Width:1110px;
+    Height:800px;
+    Top:150px;
+    Left:165px;
+    background-image: url("/assets/home/image-homepage-hero.jpg");
+    background-size: cover;
+    min-width: 100%;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    
+    
+}
+
+.hero{
+    display: flex;
+}
+
+.meio p{
+    position: absolute;
+    width: 588px;
+    height: 477px;
+    top: 393px;
+    background: #FFFFFF ;
+    color: #33323D;
+    margin-top: 34px;
+    padding: 90px 53px 0px 50px;
+    font-family: Ibarra Real Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 65px;
+    line-height: 65px;
+}
+
+.hero a{
+    display: flex;
+    align-items: center;
+    justify-content:end;
+    position: absolute;
+    Width:170px;
+    Height: 50px;
+    Top: 309px;
+    background:#203A4C;
+    color: #FFFFFF;
+    margin-top: 545px;
+    border:1px solid #203A4C;
+}
+
+.hero img{
+    position:absolute;
+    padding: 18px;
+    background:#1a2f3d;
+    top: 853.6px;
+        
+}
+
+.sobre{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+
+
+
+}
+
+.sobre img{
+    position: relative;
+    width: 600px;
+    height: 700px;
+    margin-top: 50px;
+
+}
+
+.sobremin{
+    position: absolute;
+    width: 430px;
+    height: 601px;
+    left: 835px;
+    top: 899px;    
+    margin-top: 46px;
+    color: #33323D;
+
+}
+.linha-horizontal1  {
+    width: 400px;
+    border: 1px solid #dbdada;
+    position:relative;
+    bottom:7px;
+    margin-bottom: 50px;
+    
+    }
+
+.linha-horizontal2  {
+    position: relative;
+    width: 400px;
+    border: 1px solid #dbdada;
+    bottom:9%;
+}
+
+.sobre h1{
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-family: Ibarra Real Nova;
+}
+.sobre p{
+    font-size: 15px;
+    margin-right: 61px;
+    font-family: Public Sans;
+    line-height: 35px;
+
+}
+
+.sobremin a{
+    Width:204px;
+    Height:48px;
+    Top:454px;
+    Left:113px;
+    border:1px solid #33323D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: 75px;
+    color: #33323D;
+    margin-bottom: 100px;
+}
+
+.contatos a{
+    Width:120px;
+    Height:48px;
+    margin-right: 80px;
+    border:1px solid #33323D;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+    margin-left: 75px;
+    color: #33323D;
+    margin-bottom: 100px;
+}
+
+.contatos p{
+    font-size: 40px;
+    position: relative;
+    Width: 360px;
+    Height: 84px;
+    margin-left: 10px;
+    font-family: Ibarra Real Nova;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 45px;
+
+
+}
+.contatos{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.hero img:hover{
+    background-color: rgb(38, 124, 105);
+}
+.hero a:hover{
+    background-color: rgb(95,180, 162);
+}
+
+.contatos a:hover{
+    background-color: #33323D;
+    color: #FFFF;
+}
